@@ -1,7 +1,7 @@
 # Hi there, I'm Bharath Kumar 👋
 
 ## About Me
-I am a passionate **Data Scientist** and **AI Enthusiast**, currently pursuing my **M.S. in Data Science at San Jose State University**. With a strong foundation in **Machine Learning, Deep Learning, and Cloud Technologies**, I focus on building intelligent and scalable solutions across various domains, including **Natural Language Processing, Computer Vision, and Generative AI**.
+I am a passionate **Software Engineer** and **AI and DATA Enthusiast**, currently pursuing my **M.S. in CS at San Jose State University**. With a strong foundation in **Machine Learning, Deep Learning, and Cloud Technologies**, I focus on building intelligent and scalable solutions across various domains, including **Natural Language Processing, Computer Vision, and Generative AI**.
 
 🔭 **I’m currently working on:** Developing predictive models and AI-driven applications to solve real-world problems.  
 🌱 **I’m currently learning:** Advanced techniques in Large Language Models (LLMs) and cloud-based AI deployments.  
